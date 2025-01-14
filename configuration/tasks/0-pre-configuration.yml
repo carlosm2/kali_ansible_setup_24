@@ -1,8 +1,8 @@
 ---
 # Set timezone
-- name: Set timezone to Europe/Amsterdam
+- name: Set timezone to America/Mexico_City
   community.general.timezone:
-    name: Europe/Amsterdam
+    name: America/Mexico_City
 
 # Update repositories
 - name: Update apt package lists

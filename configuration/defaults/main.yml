@@ -67,6 +67,7 @@ packages:
   - xsel
   - htop
   - terminator
+  - neofetch
 
 # Define the list of packages to install within 1-packages.yml
 python_pip_packages:

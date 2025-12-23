@@ -81,6 +81,7 @@ python_pip_packages:
   - ropper
   - unicorn
   - pywal
+  - mvt
 
 # Define the list of packages to install within 1-packages.yml
 ruby_gem_packages:
